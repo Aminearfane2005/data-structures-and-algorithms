@@ -43,13 +43,6 @@ public:
 
 };
 
-//StackArray::StackArray(/* args */)
-//{
-//}
-
-//StackArray::~StackArray()
-//{
-//}
 
 int main() {
     class StackArray s;
